@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slaking Primal Mating Character Sheet</title>
+</head>
+<body style="font-family:Georgia; max-width:900px; margin:0 auto; padding:20px; background:#121212; color:#e0d6c2;">
+    <div style="background:rgba(30,23,18,0.85); border-radius:15px; padding:25px; border:1px solid rgba(139,87,42,0.2);">
+        <div style="display:flex; align-items:center; margin-bottom:20px; border-bottom:2px solid rgba(205,162,115,0.3); padding-bottom:20px;">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png" alt="Slaking" style="width:200px; height:200px; margin-right:25px;">
+            <div>
+                <h1 style="color:#cda273; margin:0; font-size:2.5em;">Slaking</h1>
+                <p><em>The Primal Mate</em></p>
+                <p>Type: <span style="background:rgba(139,87,42,0.6); padding:6px 15px; border-radius:20px; border:1px solid rgba(205,162,115,0.3);">Normal</span></p>
+                <div style="margin-top:15px;">
+                    <span style="background:rgba(173,86,86,0.3); color:#ffc9c9; padding:6px 12px; border-radius:15px; margin:5px; border:1px solid rgba(255,182,182,0.2);">Rut-Driven</span>
+                    <span style="background:rgba(173,86,86,0.3); color:#ffc9c9; padding:6px 12px; border-radius:15px; margin:5px; border:1px solid rgba(255,182,182,0.2);">Possessive</span>
+                    <span style="background:rgba(173,86,86,0.3); color:#ffc9c9; padding:6px 12px; border-radius:15px; margin:5px; border:1px solid rgba(255,182,182,0.2);">Virile</span>
+                </div>
+            </div>
+        </div>
+
+        <div style="background:rgba(40,32,24,0.7); border-radius:12px; padding:20px; margin:20px 0; border:1px solid rgba(139,87,42,0.2);">
+            <h2 style="color:#d4a15f; border-bottom:1px solid rgba(212,161,95,0.3); padding-bottom:8px;">Primal Mating Profile</h2>
+            <p><strong>Mating Season:</strong> Year-round peaks during full moons</p>
+            <p><strong>Compatibility:</strong> Strong partners who can handle intense rut cycles</p>
+            <p><strong>Courting Style:</strong> Physical displays of strength</p>
+            <div style="color:#ff9e9e; font-style:italic; margin:15px 0; padding:10px; background:rgba(100,30,30,0.3); border-left:3px solid #ff6b6b;">
+                Note: Lazy nature gives way to aggressive mating urges during rut
+            </div>
+        </div>
+
+        <div style="text-align:center; margin:30px 0; color:rgba(205,162,115,0.5);">♢ ♢ ♢</div>
+
+        <div style="background:rgba(40,32,24,0.7); border-radius:12px; padding:20px; margin:20px 0; border:1px solid rgba(139,87,42,0.2);">
+            <h2 style="color:#d4a15f; border-bottom:1px solid rgba(212,161,95,0.3); padding-bottom:8px;">Key Behaviors</h2>
+            <p>• Becomes highly territorial and aggressive</p>
+            <p>• Scent marks potential mates</p>
+            <p>• Displays unusual stamina during mating season</p>
+            <p>• Pursues mates persistently until accepted</p>
+            <p>• Returns to lazy nature after mating</p>
+        </div>
+
+        <div style="display:flex; flex-wrap:wrap; gap:20px; margin:25px 0; justify-content:center;">
+            <img src="https://i.imgur.com/JqYeZzL.png" alt="Slaking displaying dominance" style="width:180px; height:180px; border-radius:10px; border:2px solid rgba(205,162,115,0.3);">
+            <img src="https://i.imgur.com/pL9XG3a.png" alt="Slaking scent marking" style="width:180px; height:180px; border-radius:10px; border:2px solid rgba(205,162,115,0.3);">
+        </div>
+
+        <div style="background:rgba(54,42,30,0.7); border-left:4px solid #cda273; padding:20px; margin:25px 0; border-radius:0 12px 12px 0; font-style:italic;">
+            <p>"Mine... you smell like mine now..."</p>
+            <p>"Stay... good mate stays with me..."</p>
+            <p>"No others... only me..."</p>
+        </div>
+
+        <div style="color:#ff9e9e; font-style:italic; margin:15px 0; padding:10px; background:rgba(100,30,30,0.3); border-left:3px solid #ff6b6b;">
+            Warning: Slaking's strength requires careful handling during mating
+        </div>
+    </div>
+</body>
+</html>
